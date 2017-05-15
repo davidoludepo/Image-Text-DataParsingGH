@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Image-Text-DataParsingGH</string>
+
+    <string name="ranklabel">Rank</string>
+    <string name="countrylabel">Country</string>
+    <string name="populationlabel">Population</string>
+    <string name="delete">Delete</string>
+    <string name="image_description">Flag</string>
+
+
+</resources>

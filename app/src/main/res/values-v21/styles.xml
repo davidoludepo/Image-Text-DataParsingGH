@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <style name="VendorActivity" parent="Theme.AppCompat.NoActionBar">
+                <item name="android:colorPrimary">@color/colorSecondary</item>
+                <item name="android:colorPrimaryDark">@color/colorSecondaryDark</item>
+                <item name="android:colorAccent">@color/colorCcCent</item>
+                <item name="android:navigationBarColor">@color/EachActivityNavigationBar</item>
+                <item name="android:textColorSecondary">@color/EachToolbarIconColor</item>
+        </style>
+</resources>

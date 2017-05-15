@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="EachActivityNavigationBar">#FFFFFF</color>
+    <color name="EachToolbarIconColor">#FFFFFF</color>
+
+    <color name="colorSecondary">#00897B</color>
+    <color name="colorSecondaryDark">#00796B</color>
+    <color name="colorCcCent">#607D8B</color>
+    <color name="Vendor.Color">#1CB3AE</color>
+    <color name="AddOrRemoveButtonTextColor">#FFFFFF</color>
+    <color name="DoneButtonTextColor">#FFFFFF</color>
+
+</resources>
